@@ -251,3 +251,4 @@ Results appear in `../resultados/` relative to the script location.
 - Hodgkin, A.L. & Huxley, A.F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. *Journal of Physiology*, 117, 500–544.
 - Srinivas, M. et al. (1999). Voltage dependence of macroscopic and unitary currents of gap junction channels formed by mouse connexin30. *Journal of Physiology*, 517, 673–689.
 - Connors, B.W. & Long, M.A. (2004). Electrical synapses in the mammalian brain. *Annual Review of Neuroscience*, 27, 393–418.
+- González-Nieto, D. et al. (2008). Regulation of neuronal connexin-36 channels by pH. Proceedings of the National Academy of Sciences, 105(44), 17169–17174.
